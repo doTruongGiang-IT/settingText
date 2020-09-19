@@ -1,0 +1,17 @@
+.btn {
+    width: 70px;
+}
+
+.btn-reset {
+    margin-left: 48%;
+}
+
+#content_text {
+    border: 2px solid red;
+    text-align: left;
+    padding: 5px;
+}
+
+.card-header, .card-body {
+    text-align: left;
+}
